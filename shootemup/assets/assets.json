@@ -1,0 +1,11 @@
+{
+    "fnt": {
+        "font": "sansation.ttf"
+    },
+    "img": {
+        "player": "playerShip3_blue.png",
+	"enemy1": "enemyBlack1.png",
+	"enemy2": "enemyBlue2.png",
+	"enemy3": "enemyGreen3.png"
+    }
+}
